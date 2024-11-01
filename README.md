@@ -14,9 +14,10 @@
 - Proyek berbasis IoT
 - Pengembangan software untuk smart home
 - Sistem penyimpanan data yang efisien
+- Website Devlopment
 
 ## 📫 How to reach me ...
-- Email: contact@iotgtechnology.com
+- Email: internetofthingsindonesiagreen@gmail.com
 - Instagram : https://www.instagram.com/iotgtechnology
 - Twitter : https://x.com/IOTGTechnology
 - YouTube : https://youtube.com/@iotgtechnology
